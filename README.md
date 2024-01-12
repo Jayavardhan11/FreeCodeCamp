@@ -1,1 +1,1 @@
-I'm learning **Web development** from **Odin Project**.
+I'm learning **Web development** from **FREECODECAMP**.
